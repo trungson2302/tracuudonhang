@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="sizeS">4dp</dimen>
+    <dimen name="sizeM">8dp</dimen>
+    <dimen name="sizeL">16dp</dimen>
+    <dimen name="sizeXL">20dp</dimen>
+    <dimen name="sizeXXL">24dp</dimen>
+    <dimen name="sizeXXXL">32dp</dimen>
+
+
+    <!-- Font -->
+    <dimen name="textXS">10sp</dimen>
+    <dimen name="textS">12sp</dimen>
+    <dimen name="textM">16sp</dimen>
+    <dimen name="textL">20sp</dimen>
+    <dimen name="textXL">24sp</dimen>
+    <dimen name="textXXL">28sp</dimen>
+</resources>
